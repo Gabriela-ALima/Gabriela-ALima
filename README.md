@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Gabriela Lima 😁
 
  <div>
    <a href="https://github.com/gabriela-alima">
