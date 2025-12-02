@@ -7,9 +7,9 @@
 
 <div align="center">
   <a href="https://github.com/Gabriela-ALima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriela-ALima&show_icons=true&theme=synthwave&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriela-ALima&show_icons=true&theme=dark&locale=pt-br"/>
   </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-ALima&layout=compact&langs_count=6&theme=synthwave&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-ALima&layout=compact&langs_count=6&theme=dark&locale=pt-br"/>
 </div>
 
 ---
