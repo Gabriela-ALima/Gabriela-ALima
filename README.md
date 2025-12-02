@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Gabriela Lima 👋</h1>
-<h3 align="center">Desenvolvedora Full Stack Júnior | Focada em soluções robustas e escaláveis.</h3>
+<h3 align="center">Desenvolvedora Web | Focada em soluções robustas e escaláveis.</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 Sou uma **Desenvolvedora Júnior** com paixão por criar e implementar soluções completas. Minha formação e experiência me permitem atuar desde a concepção de interfaces até a estruturação do backend e infraestrutura. Busco ativamente oportunidades para aplicar meus conhecimentos em **TypeScript**, **NestJS** e **Docker** em um ambiente profissional e desafiador.
 
 * **🎓 Formação:** Sistemas para Internet (IFSUL)
-* **🎯 Foco Principal:** Desenvolvimento Full Stack.
+* **🎯 Foco Principal:** Desenvolvimento Web.
 * **💡 Objetivo:** Contribuir com código limpo e testável.
 ---
 
