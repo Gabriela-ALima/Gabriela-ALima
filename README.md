@@ -1,31 +1,42 @@
-<h1 align="center">👋 Bem-vindo(a) ao meu perfil!</h1>
-<h3 align="center">Olá, sou a Gabriela Lima. Desenvolvedora e entusiasta de tecnologia.</h3>
+<h1 align="center">Olá, eu sou a Gabriela Lima 👋</h1>
+<h3 align="center">Desenvolvedora Full Stack Júnior | Focada em soluções robustas e escaláveis.</h3>
 
 ---
 
-### ✨ Minhas Estatísticas no GitHub
+### 🚀 Sobre Mim
 
-<div align="center">
-  <a href="https://github.com/Gabriela-ALima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriela-ALima&show_icons=true&theme=dark&locale=pt-br"/>
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-ALima&layout=compact&langs_count=6&theme=dark&locale=pt-br"/>
-</div>
+Sou uma **Desenvolvedora Júnior** com paixão por criar e implementar soluções completas. Minha formação e experiência me permitem atuar desde a concepção de interfaces até a estruturação do backend e infraestrutura. Busco ativamente oportunidades para aplicar meus conhecimentos em **TypeScript**, **NestJS** e **Docker** em um ambiente profissional e desafiador.
 
+* **🎓 Formação:** Sistemas para Internet (IFSUL)
+* **🎯 Foco Principal:** Desenvolvimento Full Stack.
+* **💡 Objetivo:** Contribuir com código limpo e testável.
 ---
 
-### 💻 Tecnologias que Utilizo
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### 💻 Minhas Skills Técnicas
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" title="Node.js">
+  
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker">
+
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
 </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" title="NestJS" />
+</p>
 <br>
 
 ---
 
-### 🔗 Conecte-se Comigo!
+### 🤝 Conecte-se Comigo!
+
+Procuro sempre fazer networking e aprender com a comunidade. Sinta-se à vontade para me contatar:
 
 <p align="center">
   <a href="https://instagram.com/gabi.alima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
